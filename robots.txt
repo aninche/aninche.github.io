@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aninche.github.io/sitemap.html.gz
+Sitemap: https://aninche.github.io/app/sitemap.html.gz
+Sitemap: https://aninche.github.io/assets/sitemap.html.gz
+Sitemap: https://aninche.github.io/css/sitemap.html.gz
+Sitemap: https://aninche.github.io/includes/sitemap.html.gz
+Sitemap: https://aninche.github.io/item/sitemap.html.gz
+Sitemap: https://aninche.github.io/src/sitemap.html.gz
